@@ -11,3 +11,11 @@
     background-size: cover;
     color: white;
 }
+
+
+#offers{
+    margin: 0 auto;
+    padding: 0.1% 0;
+    margin-right: 2px;
+    display: inline-flex;
+}
