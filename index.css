@@ -289,11 +289,14 @@
     padding-right: 20cm;
     max-width: 40cm;
     text-align: center;
+    margin-left: 5cm;
 }
 
 #deliveryp{
     color: white;
     text-align: center;
+    margin-top: -5cm;
+    margin-left: 0cm;
 }
 
 #email{
@@ -301,7 +304,7 @@
     margin-left: 10cm;
     margin-top: 2cm;
     border: 0cm solid;
-    background-color: tomato;
+    background-color: lightgray;
     max-width: 5cm;
     padding-bottom: 0.1cm;
 }
@@ -309,7 +312,8 @@
 #sub{
     color: white;
     margin-left: 20cm;
-    margin-top: 2cm;
+    margin-top: -0.8cm;
+    max-width: 10cm;
     border: 0cm solid;
     background-color: rgb(226, 21, 21);
 }
@@ -319,6 +323,52 @@
     background-color: tomato;
     border: 0cm solid tomato;
     padding: 5cm;
-    max-width: 30cm;
-    margin-top: -7cm;
+    max-width: 27cm;
+    margin-top: -1cm;
+    margin-left: 5cm;
+}
+
+#footer{
+    background-image: url("./assets/footerlogos/logo_white.png");
+    padding: 3cm;
+    margin-left: 23cm;
+    background-repeat: no-repeat;
+    margin-top: -8cm;
+}
+
+#menu{
+    margin-top: -5.5cm;
+    margin-left: 25cm;
+    color: white;
+}
+#menup{
+    margin-top: 1cm;
+    color: white;
+    text-align: center;
+    margin-left: 2cm;
+}
+
+#facebook{
+    background-image: url("./assets/footerlogos/facebook.png");
+    background-repeat: no-repeat;
+    padding: 7px;
+    margin-left: 22cm;
+    padding-bottom: 3cm;
+    margin-top: 2cm;
+}
+
+#tweeter{
+    background-image: url("./assets/footerlogos/twitter.png");
+    background-repeat: no-repeat;
+    padding: 7px;
+    margin-left: 25cm;
+    padding-bottom: 3cm;
+    margin-top: -3cm;
+}
+#pinterest{
+    background-image: url("./assets/footerlogos/pinterest.png");
+    background-repeat: no-repeat;
+    padding: 7cm;
+    margin-top: -3.3cm;
+    margin-left: 28cm;
 }
