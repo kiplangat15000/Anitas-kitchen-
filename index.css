@@ -95,3 +95,23 @@
     max-height: 25px;
     max-width: 160px;
 }
+
+#first{
+    padding: 3cm;
+    margin-left: 15cm;
+    margin-top: 3cm;
+    padding-right: 8cm;
+    padding-bottom: 2cm;
+    background-image: url("./assets/fastFood1.jpg");
+    background-repeat: no-repeat;
+}
+
+
+#firsta{
+    padding: 3cm;
+    margin-left: 15cm;
+    padding-right: 8cm;
+    margin-top: 0cm;
+    padding-bottom: 2cm;
+    background-image: url("./assets/fastFood2.jpg");
+}
