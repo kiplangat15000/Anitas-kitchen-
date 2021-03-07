@@ -136,7 +136,7 @@
 }
 
 
-.textB{
+#textB{
     margin-top: 8cm;
     margin-left: 15cm;
     margin-right: 15cm;
@@ -144,4 +144,23 @@
     max-width: 13cm;
     max-height: 25cm;
     text-align: right;
+}
+
+
+#drink1{
+    background-image: url("./assets/drink1.jpg");
+    background-repeat: no-repeat;
+    padding: 7cm;
+    margin-left: 30cm;
+    margin-right: 0cm;
+    margin-top: -5cm;
+}
+
+#drink2{
+    background-image: url("./assets/drink2.jpg");
+    background-repeat: no-repeat;
+    padding: 7cm;
+    margin-top: -14cm;
+    margin-right: 0cm;
+    margin-left: 36cm;
 }
