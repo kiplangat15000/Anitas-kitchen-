@@ -165,3 +165,85 @@
     margin-left: 36cm;
 }
 
+#nav{
+    text-align: center;
+    display: inline-flex;
+    margin-left: 20cm;
+    justify-content: space-between;
+    color: white;
+}
+
+
+.C{
+    border: 1cm solid white;
+    margin-top: 3cm;
+    background-image: url("./assets/backgrounds/foodsBg.jpg");
+    padding: 7px;
+    padding-bottom: 0cm;
+    padding-top: 10cm;
+}
+
+
+#burger{
+    text-align: left;
+    color: red;
+    margin-left: 9cm;
+    margin-top: -9cm;
+    margin-bottom: -10.5cm;
+    padding: 5cm;
+    padding-right: 3cm;
+    /* padding-left: 3cm;
+    margin-left: 10cm; */
+
+    background-repeat: no-repeat;
+    background-image: url("./assets/fastfood/chickenBurger.jpg");
+}
+
+#beef{
+    padding: 5cm;
+    padding-left: 3cm;
+    background-image: url("./assets/fastfood/beefBurger.jpg");
+    background-repeat: no-repeat;
+    margin-top: -40.5;
+    margin-left: 17cm;
+    color: red;
+    text-align: left;
+}
+
+
+#Pizza{
+    background-image: url("./assets/fastfood/chickenPizza.jpg");
+    background-repeat: no-repeat;
+    margin-top: -10.5cm;
+    margin-left: 25cm;
+    padding-left: 3cm;
+    color: red;
+    text-align: justify;
+    padding: 5cm;
+}
+
+
+#customers{
+    border: 0cm solid gray;
+    max-width: 50cm;
+    max-height: 10cm;
+}
+
+
+#massage{
+    margin-left: 2cm;
+    margin-top: 0cm;
+    border: 0cm solid white;
+    max-width: 20cm;
+    max-height: 4cm;
+}
+
+
+#menu{
+    margin-left: 25cm;
+    margin-top: -3cm;
+    border: 0cm solid white;
+    /* max-width: 20cm;
+    max-height: 4cm; */
+}
+
