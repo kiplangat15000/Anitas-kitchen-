@@ -115,3 +115,33 @@
     padding-bottom: 2cm;
     background-image: url("./assets/fastFood2.jpg");
 }
+
+#firstb{
+    padding-right: 2cm;
+    margin-left: 28cm;
+    margin-right: 5cm;
+    border: 0cm solid gray;
+    max-width: 10cm;
+    max-height: 10cm;
+    text-align: left;
+}
+
+
+#view{
+    color: red;
+    border: 0.01cm solid red;
+    text-align: center;
+    padding-top: 0.2cm;
+    margin-top: 2.7cm;
+}
+
+
+.textB{
+    margin-top: 8cm;
+    margin-left: 15cm;
+    margin-right: 15cm;
+    border: 0cm solid gray;
+    max-width: 13cm;
+    max-height: 25cm;
+    text-align: right;
+}
