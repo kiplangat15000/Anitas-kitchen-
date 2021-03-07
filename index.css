@@ -49,5 +49,35 @@
     width: 359px;
     height: 100px;
     padding: 50px;
+    /* padding-right: 2cm; */
     background-image: url("./assets/foodtop/breakfast.jpg");
+    /* background-repeat: no-repeat; */
+}
+
+
+#lunch{
+    border: none;
+    background-image: url("./assets/foodtop/lunch.jpg");
+    text-align: center;
+    color: white;
+    padding: 50px;
+    /* padding-left: -30cm; */
+    /* background-repeat: no-repeat; */
+    height: 100px;
+    width: 359px;
+}
+
+.one{
+    margin: 0 auto;
+    flex-direction: column;
+}
+
+#dinner{
+    border: none;
+    width: 359px;
+    height: 100px;
+    padding: 50px;
+    text-align: center;
+    color: white;
+    background-image: url("./assets/foodtop/dinner.jpg");
 }
