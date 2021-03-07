@@ -273,9 +273,52 @@
     margin-top: -5.8cm;
 }
 
-#comments{
+/* #comments{
     border: 1px solid gray;
     max-width: 50cm;
     max-height: 10cm;
+} */
+
+#delivery{
+    background-image: url("./assets/backgrounds/subscribe.jpg");
+    padding: 5cm;
+    background-repeat: no-repeat;
+    margin-top: 3cm;
+    padding-bottom: 4cm;
+    width: 100%;
+    padding-right: 20cm;
+    max-width: 40cm;
+    text-align: center;
 }
 
+#deliveryp{
+    color: white;
+    text-align: center;
+}
+
+#email{
+    color: white;
+    margin-left: 10cm;
+    margin-top: 2cm;
+    border: 0cm solid;
+    background-color: tomato;
+    max-width: 5cm;
+    padding-bottom: 0.1cm;
+}
+
+#sub{
+    color: white;
+    margin-left: 20cm;
+    margin-top: 2cm;
+    border: 0cm solid;
+    background-color: rgb(226, 21, 21);
+}
+
+
+#foot{
+    background-color: tomato;
+    border: 0cm solid tomato;
+    padding: 5cm;
+    max-width: 30cm;
+    margin-top: -7cm;
+}
