@@ -81,3 +81,17 @@
     color: white;
     background-image: url("./assets/foodtop/dinner.jpg");
 }
+
+
+#A{
+    margin: 0;
+    padding: 00.1% 0;
+    margin-right: 2px;
+    display: inline-flex;
+}
+
+#ab{
+    vertical-align: middle;
+    max-height: 25px;
+    max-width: 160px;
+}
