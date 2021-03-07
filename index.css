@@ -19,3 +19,35 @@
     margin-right: 2px;
     display: inline-flex;
 }
+
+
+#Happy{
+    border: none;
+    justify-content: space-between;
+    margin-top: 0cm;
+    text-align: center;
+    padding: 50px;
+    height: 1px;
+    width: 359px;
+    background-color: lightgray;
+}
+
+
+#part{
+    border: none;
+    text-align: center;
+    width: 359px;
+    height: 0.3px;
+    padding: 50px;
+    background-color: tomato;
+}
+
+
+#break{
+    border: none;
+    color: white;
+    width: 359px;
+    height: 100px;
+    padding: 50px;
+    background-image: url("./assets/foodtop/breakfast.jpg");
+}
