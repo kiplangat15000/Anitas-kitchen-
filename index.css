@@ -247,3 +247,35 @@
     max-height: 4cm; */
 }
 
+
+#customer1{
+    background-image: url("./assets/customers/p1.png");
+    padding: 3cm;
+    background-repeat: no-repeat;
+    margin-left: 3cm;
+    margin-top: 1.1cm;
+}
+
+#customer2{
+    background-image: url("./assets/customers/p2.png");
+    padding: 3cm;
+    background-repeat: no-repeat;
+    margin-left: 6cm;
+    margin-top: -6cm;
+}
+
+
+#customer3{
+    background-image: url("./assets/customers/p3.png");
+    padding: 3cm;
+    background-repeat: no-repeat;
+    margin-left: 9cm;
+    margin-top: -5.8cm;
+}
+
+#comments{
+    border: 1px solid gray;
+    max-width: 50cm;
+    max-height: 10cm;
+}
+
