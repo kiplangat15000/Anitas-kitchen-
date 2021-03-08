@@ -138,7 +138,7 @@
 
 #textB{
     margin-top: 8cm;
-    margin-left: 15cm;
+    margin-left: 10cm;
     margin-right: 15cm;
     border: 0cm solid gray;
     max-width: 13cm;
@@ -146,14 +146,22 @@
     text-align: right;
 }
 
+#viewb{
+    color: red;
+    border: 0.01cm solid red;
+    text-align: center;
+    padding-top: 0.2cm;
+    margin-top: 2cm;
+}
+
 
 #drink1{
     background-image: url("./assets/drink1.jpg");
     background-repeat: no-repeat;
     padding: 7cm;
-    margin-left: 30cm;
+    margin-left: 25cm;
     margin-right: 0cm;
-    margin-top: -5cm;
+    margin-top: -8cm;
 }
 
 #drink2{
@@ -162,7 +170,7 @@
     padding: 7cm;
     margin-top: -14cm;
     margin-right: 0cm;
-    margin-left: 36cm;
+    margin-left: 30cm;
 }
 
 #nav{
@@ -176,7 +184,7 @@
 
 .C{
     border: 1cm solid white;
-    margin-top: 3cm;
+    margin-top: 0cm;
     background-image: url("./assets/backgrounds/foodsBg.jpg");
     padding: 7px;
     padding-bottom: 0cm;
@@ -223,11 +231,11 @@
 }
 
 
-#customers{
+/* #customers{
     border: 0cm solid gray;
     max-width: 50cm;
     max-height: 10cm;
-}
+} */
 
 
 #massage{
@@ -241,10 +249,10 @@
 
 #menu{
     margin-left: 25cm;
-    margin-top: -3cm;
+    margin-top: -50cm;
     border: 0cm solid white;
-    /* max-width: 20cm;
-    max-height: 4cm; */
+    max-width: 20cm;
+    max-height: 12cm;
 }
 
 
@@ -265,6 +273,7 @@
 }
 
 
+
 #customer3{
     background-image: url("./assets/customers/p3.png");
     padding: 3cm;
@@ -283,7 +292,7 @@
     background-image: url("./assets/backgrounds/subscribe.jpg");
     padding: 5cm;
     background-repeat: no-repeat;
-    margin-top: 3cm;
+    margin-top: 5cm;
     padding-bottom: 4cm;
     width: 100%;
     padding-right: 20cm;
